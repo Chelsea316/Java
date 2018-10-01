@@ -1,7 +1,6 @@
 # Project 01_java
-write for subject
 
-This project is writen in java for the school project.
+This project is writen in java for the school subject.
 
 It is a game called NimGame.
 
