@@ -1,4 +1,4 @@
-# Java
+# Project 01_java
 write for subject
 
 This project is writen in java for the school project.
